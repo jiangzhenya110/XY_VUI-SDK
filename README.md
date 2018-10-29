@@ -3,10 +3,10 @@
 
 # 一、集成准备
 ## 1.1 官网地址
-	  [官网地址:](https://iuap.yonyoucloud.com)
-    [文档地址:](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/6-/xiaoyou/ios/小友集成文档IM版.md?key=小友集成文档IOSIM版)
+   [官网地址:](https://iuap.yonyoucloud.com)
+   [文档地址:](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/6-/xiaoyou/ios/小友集成文档IM版.md?key=小友集成文档IOSIM版)
 ## 1.2下载小友SDK
-	小友移动端iOS [SDK下载地址:](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/11-/download.md?key=相关下载)
+   小友移动端iOS [SDK下载地址:](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/11-/download.md?key=相关下载)
 ## 1.3申请百度语音服务账号
 	由于小友SDK的语音识别等能力使用百度语音服务，因此，需要用户自行创建账号以获取授权使用相关服务。地址:http://ai.baidu.com
 	用户创建百度账号及应用后，获取appid、apikey、secretkey，后续集成过程中会使用。
