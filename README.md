@@ -4,6 +4,7 @@
 # 一、集成准备
 ## 1.1 官网地址
    [官网地址:](https://iuap.yonyoucloud.com)
+   
    [文档地址:](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/6-/xiaoyou/ios/小友集成文档IM版.md?key=小友集成文档IOSIM版)
 ## 1.2下载小友SDK
    小友移动端iOS [SDK下载地址:](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/11-/download.md?key=相关下载)
