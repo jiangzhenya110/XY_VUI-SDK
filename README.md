@@ -18,7 +18,7 @@
 	对于AFNetworking和SDWebImage两个第三方库，若用户工程内已使用，则不用拖入。
 ## 2.2依赖的类库
 	XiaoYou.framework
-	libBaiduSpeechSDK.a 需要自行下载该语音库
+	libBaiduSpeechSDK.a 需要自行下载该语音库,官网下载的demo中包含此库
 	libYonyouIMSdk.a
 	SDWebImage.framework
 	YYBaiduVoiceSDK.framework
